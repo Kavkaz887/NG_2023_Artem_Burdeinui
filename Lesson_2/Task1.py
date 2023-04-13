@@ -1,4 +1,4 @@
-list = input("Enter your list: ").split(" ")
+list = input("Enter your list: ").split(' ')
 search_element = input("Enter element: ")
 counter = 0
 for element in list:
